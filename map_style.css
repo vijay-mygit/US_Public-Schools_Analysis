@@ -1,0 +1,35 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.jumbotron{
+    background-image: url("logo.jpg");
+}
+
+
+  
+#map,body,html{
+    height: 90%;
+    width: 90%;
+    padding-left: 20%;    
+}
+
+#heat-map,body,html {
+    height:90%;
+    width: 90%;
+    padding-left: 20%;
+}
+
+#heat-map2,body,html {
+    height:90%;
+    width: 90%;
+    padding-left: 20%;
+}
+
+.page-footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
